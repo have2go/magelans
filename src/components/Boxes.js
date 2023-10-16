@@ -52,7 +52,7 @@ export default function Boxes({ lang }) {
                     </div>
                 </div>
                 <div className="bg-arrow-right-orange w-[86px] h-[86px] lg:w-16 bg-contain bg-center bg-no-repeat md:rotate-90"></div>
-                <div className="w-96 lg:max-w-[300px] min-h-[200px]">
+                <div className="w-96 lg:max-w-[300px] min-h-[190px]">
                     {!isHovered && (
                         <p className="hexatextstart font-bold text-2xl w-full md:text-base">
                             Lorem ipsum dolor sit amet consectetur adipisicing
