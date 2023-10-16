@@ -8,11 +8,36 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'logo-white': 'url(../../public/logo-white.svg)',
+        'logo-orange': 'url(../../public/logo-orange.svg)',
+        'burger-icon': 'url(../../public/burger-icon.svg)',
+        'whatsapp-icon': 'url(../../public/whatsapp-icon.svg)',
+        'arrow-right': 'url(../../public/arrow-right.svg)',
+        'arrow-right-orange': 'url(../../public/arrow-right-orange.svg)',
+        'hexagon-empty': 'url(../../public/hexagon-empty.svg)',
+        'hexagon-full': 'url(../../public/hexagon-full.svg)',
       },
+      colors: {
+        'orangeMag': '#FF6813',
+        'greyCell': '#D9D9D9',
+      }
     },
+    screens: {
+      '2xl': {'max': '1536px'},
+      // => @media (max-width: 1536px) { ... }
+
+      'xl': {'max': '1280px'},
+      // => @media (max-width: 1280px) { ... }
+
+      'lg': {'max': '1024px'},
+      // => @media (max-width: 1024px) { ... }
+
+      'md': {'max': '768px'},
+      // => @media (max-width: 768px) { ... }
+
+      'sm': {'max': '480px'},
+      // => @media (max-width: 480px) { ... }
+    }
   },
   plugins: [],
 }
