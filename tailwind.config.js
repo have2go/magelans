@@ -26,6 +26,9 @@ module.exports = {
       '2xl': {'max': '1536px'},
       // => @media (max-width: 1536px) { ... }
 
+      '1.5xl': {'max': '1400px'},
+      // => @media (max-width: 1400px) { ... }
+
       'xl': {'max': '1280px'},
       // => @media (max-width: 1280px) { ... }
 
