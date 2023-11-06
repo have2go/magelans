@@ -35,14 +35,13 @@ export default function Home() {
                     <div className="flex w-full justify-between items-center gap-3">
                         <div className="bg-logo-orange bg-no-repeat bg-contain bg-center h-[26px] min-w-[168px]"></div>
                         <div className="flex flex-col gap-2">
-                        <p className="text-black text-2xl font-medium whitespace-nowrap xl:text-xl lg:text-lg md:hidden">
-                            example@mail.com
-                        </p>
-                        <p className="text-black text-2xl font-medium whitespace-nowrap xl:text-xl lg:text-lg md:hidden">
-                            +90 242 152 5700
-                        </p>
+                            <p className="text-black text-xl font-medium whitespace-nowrap xl:text-xl lg:text-lg md:hidden">
+                                info@magellans.com.tr
+                            </p>
+                            <p className="text-black text-xl font-medium whitespace-nowrap xl:text-xl lg:text-lg md:hidden">
+                                +90 242 152 5700
+                            </p>
                         </div>
-                        
                     </div>
                     {/* <div className="bg-whatsapp-icon bg-no-repeat bg-contain bg-center h-[26px] min-w-[26px]"></div> */}
                     <div className="flex items-center">
@@ -54,8 +53,7 @@ export default function Home() {
                                 if (lang !== "en") {
                                     setLang("en");
                                 }
-                            }}
-                        >
+                            }}>
                             EN
                         </p>
                         <p className="text-black text-2xl font-medium cursor-pointer xl:text-xl lg:text-lg">
@@ -69,8 +67,7 @@ export default function Home() {
                                 if (lang !== "tur") {
                                     setLang("tur");
                                 }
-                            }}
-                        >
+                            }}>
                             TUR
                         </p>
                     </div>
