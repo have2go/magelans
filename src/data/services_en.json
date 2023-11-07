@@ -1,0 +1,59 @@
+[
+    {
+        "text": "REIMPORT",
+        "info": "Re-export of goods that were previously exported from the territory of the EAEU, including: low-quality /illiquid goods, complaints after processing outside the territory of the EAEU: processing, repair, manufacture, modernization and replacement of spare parts to complete the temporary export procedure."
+    },
+    {
+        "text": "REEXPORT",
+        "info": "The return export of goods that were previously imported into the territory of the EAEU, including: low-quality /illiquid goods, complaints, residues or processed products of goods, as well as the completion of the temporary import procedure."
+    },
+    {
+        "text": "TEMPORARY IMPORTATION (ADMISSION)",
+        "info": "Temporary importation into the territory of the EAEU of vehicles (including international cargo transportation), goods for exhibitions – exhibits, artistic, cultural, historical and scientific values, etc., property of legal entities and individuals."
+    },
+    {
+        "text": "PROCESSING IN THE CUSTOMS TERRITORY",
+        "info": "Import of raw materials, parts and components for the subsequent production of finished goods and their export outside the EAEU, or release into free circulation for sale on the territory of the EAEU."
+    },
+    {
+        "text": "CUSTOMS WAREHOUSE",
+        "info": "Import of foreign goods into the warehouse territory for the purpose of their storage and carrying out the necessary operations with goods in order to prepare them for release into free circulation or re-export."
+    },
+    {
+        "text": "TEMPORARY EXPORT",
+        "info": "Temporary export outside the EAEU: vehicles (including international cargo transportation) of goods for exhibitions — exhibits, artistic, cultural, historical and scientific values, etc., property of legal entities and individuals."
+    },
+    {
+        "text": "PROCESSING FOR DOMESTIC CONSUMPTION",
+        "info": "Import of raw materials, parts and components for the subsequent production of finished goods and their release for sale on the territory of the EAEU."
+    },
+    {
+        "text": "PROCESSING OUTSIDE THE CUSTOMS TERRITORY",
+        "info": "Export of raw materials, parts and components for the subsequent production of finished goods and their release for sale outside the territory of the EAEU."
+    },
+    {
+        "text": "FREE CUSTOMS ZONE",
+        "info": "Creation of special zones for the purpose of duty-free import of both equipment and raw materials, for the production of goods and their release on the territory of the EAEU, or export outside the EAEU."
+    },
+    
+    {
+        "text": "REFUSAL IN FAVOR OF THE STATE",
+        "info": "Performing operations with goods due to the impossibility of placing them under any customs procedure."
+    },
+    {
+        "text": "DUTY-FREE TRADE",
+        "info": "Placing goods: food, alcohol, cosmetics, souvenirs, jewelry under the customs procedure by the owners of duty-free shops."
+    },
+    {
+        "text": "SPECIAL CUSTOMS PROCEDURE",
+        "info": "Placing goods under the customs procedure in accordance with individual Decisions of the EAEU Commission (exhibitions, sports competitions, international forums, etc.)."
+    },
+    {
+        "text": "DESTRUCTION",
+        "info": "Destruction under state control of goods that have fallen into disrepair, damaged or damaged goods that have lost their consumer and value properties, have not passed any of the types of state control, the expediency of which is absent in re-export. (when clicked, an explanation pops up)."
+    },
+    {
+        "text": "FREE WAREHOUSE",
+        "info": "Export of raw materials, parts and components for the subsequent production of finished goods and their release for sale outside the territory of the EAEU."
+    }
+]

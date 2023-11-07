@@ -1,0 +1,59 @@
+[
+    {
+        "text": "YENİDEN İTHALAT",
+        "info": "Daha önce EAEU bölgesinden ihraç edilen malların yeniden ihracatı, aşağıdakiler dahil: düşük kaliteli / likit olmayan mallar, EAEU bölgesi dışında işlendikten sonra şikayetler: geçici ihracat prosedürünü tamamlamak için yedek parçaların işlenmesi, onarımı, üretimi, modernizasyonu ve değiştirilmesi."
+    },
+    {
+        "text": "YENİDEN İHRACAT",
+        "info": "Düşük kaliteli / likit olmayan mallar, şikayetler, artıklar veya işlenmiş ürünler dahil olmak üzere daha önce EAEU topraklarına ithal edilen malların iade ihracatı ve ayrıca geçici ithalat prosedürünün tamamlanması."
+    },
+    {
+        "text": "GEÇİCİ İTHALAT (GİRİŞ)",
+        "info": "Araçların (uluslararası kargo taşımacılığı dahil) EAEU topraklarına geçici ithalatı, sergiler için mallar – sergiler, sanatsal, kültürel, tarihi ve bilimsel değerler vb., tüzel kişilerin ve bireylerin mülkiyeti."
+    },
+    {
+        "text": "GÜMRÜK BÖLGESİNDE İŞLEME",
+        "info": "Müteakip mamul üretimi ve bunların EAEU dışına ihracatı için hammadde, parça ve bileşenlerin ithalatı veya EAEU topraklarında satılmak üzere serbest dolaşıma bırakılması."
+    },
+    {
+        "text": "GÜMRÜK ANTREPOSU",
+        "info": "Yabancı malların depolanması amacıyla depo bölgesine ithalatı ve bunları serbest dolaşıma veya yeniden ihracata hazırlamak için mallarla gerekli işlemleri yapmak."
+    },
+    {
+        "text": "GEÇİCİ DIŞA AKTARMA",
+        "info": "EAEU dışındaki geçici ihracat: sergiler için malların araçları (uluslararası kargo taşımacılığı dahil) — sergiler, sanatsal, kültürel, tarihi ve bilimsel değerler vb., tüzel kişilerin ve bireylerin mülkiyeti."
+    },
+    {
+        "text": "İÇ TÜKETİM İÇİN İŞLEME",
+        "info": "Müteakip mamul üretimi için hammadde, parça ve bileşenlerin ithalatı ve bunların EAEU topraklarında satışa sunulması."
+    },
+    {
+        "text": "GÜMRÜK bölgesi dışında İŞLEME",
+        "info": "Müteakip mamul üretimi için hammadde, parça ve bileşenlerin ihracatı ve bunların EAEU bölgesi dışında satışa sunulması."
+    },
+    {
+        "text": "SERBEST GÜMRÜK BÖLGESİ",
+        "info": "Hem ekipmanın hem de hammaddelerin gümrüksüz ithalatı, malların üretimi ve bunların EAEU topraklarında serbest bırakılması veya EAEU dışına ihraç edilmesi amacıyla özel bölgelerin oluşturulması."
+    },
+
+    {
+        "text": "DEVLET LEHİNE REDDETME",
+        "info": "Herhangi bir gümrük prosedürüne tabi tutulmasının imkansızlığı nedeniyle mallarla işlem yapmak."
+    },
+    {
+        "text": "GÜMRÜKSÜZ TİCARET",
+        "info": "Malların gümrüksüz satış mağazalarının sahipleri tarafından gümrük prosedürüne tabi tutulması: yiyecek, alkol, kozmetik, hediyelik eşya, mücevher."
+    },
+    {
+        "text": "ÖZEL GÜMRÜK İŞLEMLERİ",
+        "info": "EAEU Komisyonunun bireysel Kararlarına (sergiler, spor müsabakaları, uluslararası forumlar vb.) Uygun olarak malların gümrük prosedürüne tabi tutulması.)."
+    },
+    {
+        "text": "YIKIM",
+        "info": "Bakıma muhtaç hale gelen, tüketici ve değer özelliklerini kaybetmiş, zarar görmüş veya zarar görmüş malların devlet kontrolü altındaki imhası, yeniden ihracatta uygunluğu bulunmayan hiçbir devlet kontrolü türünden geçmemiştir. (tıklandığında bir açıklama açılır)."
+    },
+    {
+        "text": "ÜCRETSİZ DEPO",
+        "info": "Müteakip mamul üretimi için hammadde, parça ve bileşenlerin ihracatı ve bunların EAEU bölgesi dışında satışa sunulması."
+    }
+]
